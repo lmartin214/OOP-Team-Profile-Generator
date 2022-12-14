@@ -9,7 +9,7 @@
   - [Description](#description)
   - [License](#license)
   - [Contributing](#contributing)
-  - [Tests](#tests)
+  - [Deployment](#Video)
   - [Questions](#questions)
   
   ## Installation
@@ -25,8 +25,8 @@
   https://opensource.org/licenses/APACHE-2.0
   ## Contributing
   
-  ## Tests
-  undefined
+  ## Deployment Video
+  https://www.loom.com/share/9423c2f9c53746d5b32a356d6b9fe2ec
   ## Questions
   If you have any questions please contact me at:
    - GitHub account:https://github.com/lmartin214
